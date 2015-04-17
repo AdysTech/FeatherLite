@@ -11,7 +11,7 @@ using System.Resources;
 [assembly: AssemblyConfiguration ("")]
 [assembly: AssemblyCompany ("AdysTech")]
 [assembly: AssemblyProduct ("FeatherLite")]
-[assembly: AssemblyCopyright ("Copyright ©  2014 AdysTech.com")]
+[assembly: AssemblyCopyright ("Copyright ©  2015 AdysTech.com")]
 [assembly: AssemblyTrademark ("")]
 [assembly: AssemblyCulture ("")]
 
