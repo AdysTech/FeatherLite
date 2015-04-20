@@ -14,7 +14,7 @@ namespace AdysTech.FeatherLite.Model
     /// Implementation of <see cref="INotifyPropertyChanged"/> to simplify models.
     /// </summary>
     // [Windows.Foundation.Metadata.WebHostHidden]
-    public abstract class ObservaleObject : INotifyPropertyChanged, INotifyPropertyChanging
+    public abstract class ObservableObject : INotifyPropertyChanged, INotifyPropertyChanging
     {
 
         /// <summary>

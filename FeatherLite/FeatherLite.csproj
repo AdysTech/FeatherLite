@@ -91,7 +91,7 @@
     <Compile Include="Messaging\MessageTopicProvider.cs" />
     <Compile Include="Messaging\QueryPropertyMessage.cs" />
     <Compile Include="Extensions\MathExtensions.cs" />
-    <Compile Include="Model\ObservaleObject.cs" />
+    <Compile Include="Model\ObservableObject.cs" />
     <Compile Include="Navigation\INavigationService.cs" />
     <Compile Include="Navigation\NavigationEvent.cs" />
     <Compile Include="Navigation\NavigationService.cs" />
